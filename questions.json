@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "What does CPU stand for?",
+            "choices": ["Central Processing Unit", "Central Programming Unit", "Computer Personal Unit", "Central Peripheral Unit"],
+            "correct_index": 0
+        },
+        {
+            "question": "Which of the following is a programming language?",
+            "choices": ["HTML", "CSS", "JavaScript", "All of the above"],
+            "correct_index": 3
+        },
+        {
+            "question": "What is the main function of an operating system?",
+            "choices": ["Manage hardware resources", "Run applications", "Provide user interface", "All of the above"],
+            "correct_index": 3
+        },
+        {
+            "question": "What does HTTP stand for?",
+            "choices": ["HyperText Transfer Protocol", "HyperText Transmission Protocol", "HighText Transfer Protocol", "HyperText Transport Protocol"],
+            "correct_index": 0
+        },
+        {
+            "question": "Which company developed the Windows operating system?",
+            "choices": ["Apple", "Microsoft", "IBM", "Linux"],
+            "correct_index": 1
+        },
+        {
+            "question": "What is the purpose of a firewall?",
+            "choices": ["To cool down the computer", "To protect against unauthorized access", "To speed up the internet", "To store data"],
+            "correct_index": 1
+        },
+        {
+            "question": "Which of the following is a type of malware?",
+            "choices": ["Virus", "Trojan", "Worm", "All of the above"],
+            "correct_index": 3
+        },
+        {
+            "question": "What does the acronym 'RAM' stand for?",
+            "choices": ["Read Access Memory", "Random Access Memory", "Read And Memory", "Random And Memory"],
+            "correct_index": 1
+        },
+        {
+            "question": "Which protocol is used for sending emails?",
+            "choices": ["FTP", "HTTP", "SMTP", "IMAP"],
+            "correct_index": 2
+        },
+        {
+            "question": "What is cloud computing?",
+            "choices": ["Storing data on local servers", "Storing data on remote servers accessed via the internet", "Using a computer without an internet connection", "None of the above"],
+            "correct_index": 1
+        }
+    ]
+}
